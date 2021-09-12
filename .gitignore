@@ -1,2 +1,3 @@
 # Dont commit any generated text files.
 *.txt
+*.exe
