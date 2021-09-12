@@ -1,0 +1,2 @@
+# Dont commit any generated text files.
+*.txt
